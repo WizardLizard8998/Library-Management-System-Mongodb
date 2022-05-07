@@ -1,0 +1,16 @@
+LMS 
+
+the requirements
+
+1. The system must store master data about the books in the library, such as, title, authors, editors, ISBN, publish year, edition, publisher, page count, language, and the number of each book in the library.
+2. The user can add new books, and can update/delete existing books.
+3. The user can perform detailed search for any book by any data field.
+4. The system can allow anyone to borrow a book if there are available number of that book in the library. The system must store the borrower’s name, borrow date/time, etc. Besides, the system can allow the borrower to return the borrowed book.
+5. The system can report the books currently borrowed in detail.
+
+In general that leads us  to 3  groups
+
+demo is completed 
+
+Mongodb schema 
+
